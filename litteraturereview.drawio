@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:31:45.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GV3a26FW_PoB5GRCfmIL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T10:05:18.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PlaG7N6wQ_NK1RC0raCx" version="20.5.3" type="github">
   <diagram id="oMJjJdJxvG5CHlvqNMqH" name="Page-1">
-    <mxGraphModel dx="706" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="831" dy="491" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FagKmRlnysmXWn2xa_j7-1" value="Testing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="185" width="60" height="30" as="geometry" />
+        <mxCell id="RFItumHFisGm9Dvvl5Tg-1" value="&lt;b&gt;Ocean conservation boosts climate change mitigation and adaptation (Jacquemont et al., 2022)&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="358" height="593" as="geometry" />
+        </mxCell>
+        <mxCell id="RFItumHFisGm9Dvvl5Tg-2" value="Aims: identified potential pathways through which MPAs could contribute to climate change mitigation and adaptation. Social and ecological dimensions were considered.&lt;br&gt;&lt;br&gt;Aims: literature review to summarise results from empirical studies on MPA outcomes and these climate pathways" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="RFItumHFisGm9Dvvl5Tg-1">
+          <mxGeometry y="30" width="358" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RFItumHFisGm9Dvvl5Tg-3" value="Finding was that MPAs were beneficial to most ecological and social climate pathways ONLY under high levels of protection" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RFItumHFisGm9Dvvl5Tg-1">
+          <mxGeometry y="130" width="358" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="RFItumHFisGm9Dvvl5Tg-4" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Climate mitigation: &lt;/b&gt;MPAs provide benefit to carbon sequestration (except for tidal marshes). No evidence on effect of MPAs on acidity buffering.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Climate adaptation:&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Species richness higher but not shannon index&lt;/li&gt;&lt;li&gt;Reproductive output had biggest difference&lt;/li&gt;&lt;li&gt;Recruitment rates no difference (predation the same)&lt;/li&gt;&lt;li&gt;Not much quantitative evidence for ecosystem stability, genetic diversity, body condition, connectivity and phenotypic plasticity&lt;/li&gt;&lt;li&gt;Connectivity is biggest issue to solve as real solution to climate change adaptation&lt;/li&gt;&lt;li&gt;Food security increased (CPUE) ONLY for MPAs with no fishing. This opposes another meta-analyses on negative CPUE impacts for southern European fisheries&lt;/li&gt;&lt;li&gt;User rights, conflict and costs negatively impacted but cohesion improved. Very large discrepencey of MPA outcomes on conflict and cohesion suggest it is very much context dependent.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="RFItumHFisGm9Dvvl5Tg-1">
+          <mxGeometry y="181" width="358" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="RFItumHFisGm9Dvvl5Tg-6" value="&lt;b&gt;Important message:&lt;/b&gt; &quot;Increases in CPUE and C sequestration were also achieved by highly protected areas, where low-impact fishing is allowed. However, this was only the case when a fully protected area was also present in the MPA considered (i.e., a multi-zone MPA with one zone being a fully protected area).&quot;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="RFItumHFisGm9Dvvl5Tg-1">
+          <mxGeometry y="511" width="358" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
