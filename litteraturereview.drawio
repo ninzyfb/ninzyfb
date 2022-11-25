@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T08:46:53.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="93TKriPNpT8vmXzv64BD" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T08:57:31.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="H7Yd5qXxNjVGOGQ0RJnK" version="20.5.3" type="github">
   <diagram id="oMJjJdJxvG5CHlvqNMqH" name="Page-1">
     <mxGraphModel dx="1186" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="iBG1UUJ010-rRIB4jjcF-1" value="&lt;b&gt;Ocean conservation boosts climate change mitigation and adaptation (Jacquemont et al., 2022)&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="136" y="67" width="358" height="593" as="geometry" />
         </mxCell>
-        <mxCell id="iBG1UUJ010-rRIB4jjcF-2" value="Aims:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-2" value="Aims: To investigate changes in demersal species of inshore Agulhas bank by replicating trawl survey from 1904 (supposed to represent baseline data)." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
           <mxGeometry y="30" width="358" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iBG1UUJ010-rRIB4jjcF-3" value="Intro interesting points:&lt;br&gt;- most intense fishing pressure in SA was between 1950 - 1970" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
