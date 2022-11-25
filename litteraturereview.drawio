@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T08:16:59.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="le_B9AAnBVjLm2-8Cf8f" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T08:46:53.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="93TKriPNpT8vmXzv64BD" version="20.5.3" type="github">
   <diagram id="oMJjJdJxvG5CHlvqNMqH" name="Page-1">
-    <mxGraphModel dx="1078" dy="863" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,23 @@
         <mxCell id="RFItumHFisGm9Dvvl5Tg-6" value="&lt;b&gt;Important message:&lt;/b&gt; &quot;Increases in CPUE and C sequestration were also achieved by highly protected areas, where low-impact fishing is allowed. However, this was only the case when a fully protected area was also present in the MPA considered (i.e., a multi-zone MPA with one zone being a fully protected area).&quot;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" parent="RFItumHFisGm9Dvvl5Tg-1" vertex="1">
           <mxGeometry y="511" width="358" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="CgYDRMqxoxwIlcu6GhCc-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CONSERVATION EVIDENCE LINKS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://environmentalevidencejournal.biomedcentral.com/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;a style=&quot;background-color: initial; font-family: Calibri; text-size-adjust: auto;&quot; title=&quot;https://www.conservationevidence.com/&quot; target=&quot;_blank&quot; href=&quot;https://www.conservationevidence.com/&quot;&gt;https://www.conservationevidence.com&lt;/a&gt;/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="CgYDRMqxoxwIlcu6GhCc-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;CONSERVATION EVIDENCE LINKS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://environmentalevidencejournal.biomedcentral.com/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;a style=&quot;background-color: initial; font-family: Calibri; text-size-adjust: auto;&quot; title=&quot;https://www.conservationevidence.com/&quot; target=&quot;_blank&quot; href=&quot;https://www.conservationevidence.com/&quot;&gt;https://www.conservationevidence.com&lt;/a&gt;/&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-259" y="-55" width="318" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-1" value="&lt;b&gt;Ocean conservation boosts climate change mitigation and adaptation (Jacquemont et al., 2022)&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="136" y="67" width="358" height="593" as="geometry" />
+        </mxCell>
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-2" value="Aims:" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
+          <mxGeometry y="30" width="358" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-3" value="Intro interesting points:&lt;br&gt;- most intense fishing pressure in SA was between 1950 - 1970" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
+          <mxGeometry y="130" width="358" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-4" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
+          <mxGeometry y="181" width="358" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="iBG1UUJ010-rRIB4jjcF-5" value="&lt;b&gt;Important message:&lt;/b&gt; &quot;Increases in CPUE and C sequestration were also achieved by highly protected areas, where low-impact fishing is allowed. However, this was only the case when a fully protected area was also present in the MPA considered (i.e., a multi-zone MPA with one zone being a fully protected area).&quot;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="iBG1UUJ010-rRIB4jjcF-1">
+          <mxGeometry y="511" width="358" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
